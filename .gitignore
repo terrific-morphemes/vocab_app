@@ -1,0 +1,8 @@
+.DS_Store/
+virtualenv/
+*.sqlite3
+*.pyc
+node_modules/
+migrations/
+.cache/
+dist/
