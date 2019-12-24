@@ -9,11 +9,14 @@ class VocabItemSerializer(serializers.ModelSerializer):
 
 
 class VocabListSerializer(serializers.ModelSerializer):
-    model = VocabList
-    fields = ('id', 'learner')
+    vocab_items = VocabItemSerializer(many=True)
+    class Meta:
+        model = VocabList
+        fields = ('id', 'learner', 'vocab_items')
 
 
 class MicroblogSerializer(serializers.ModelSerializer):
-    model = Microblog
-    fields = ('id', 'text', 'language', 'learner')
+    class Meta:
+        model = Microblog
+        fields = ('id', 'text', 'language', 'learner')
 

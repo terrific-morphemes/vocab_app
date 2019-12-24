@@ -1,0 +1,298 @@
+[
+ {
+  "pk": 0,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "pochen",
+   "meaning": "thump (heart)",
+   "language": "german",
+   "morphology": "",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 1,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "emp\u00f6rt",
+   "meaning": "indignant",
+   "language": "german",
+   "morphology": "",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 2,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "anscheinend",
+   "meaning": "apparently",
+   "language": "german",
+   "morphology": "",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 3,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "Angewohnheit",
+   "meaning": "habit",
+   "language": "german",
+   "morphology": "f",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 4,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "gefecht",
+   "meaning": "fight",
+   "language": "german",
+   "morphology": "n",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 5,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "vorbereiten",
+   "meaning": "prepare",
+   "language": "german",
+   "morphology": "auf",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 6,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "liebevoll genannt",
+   "meaning": "lovingly called",
+   "language": "german",
+   "morphology": "",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 7,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "Dr\u00fcse",
+   "meaning": "gland",
+   "language": "german",
+   "morphology": "f",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 8,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "leiden",
+   "meaning": "suffer from (disease)",
+   "language": "german",
+   "morphology": "unter",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 9,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "Zeil",
+   "meaning": "line (of text)",
+   "language": "german",
+   "morphology": "f",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 10,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "aussch\u00fctten",
+   "meaning": "pour out, spill",
+   "language": "german",
+   "morphology": "",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 11,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "waschecht",
+   "meaning": "genuine",
+   "language": "german",
+   "morphology": "",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 12,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "eine Reaktion ausl\u00f6sen",
+   "meaning": "trigger a reaction",
+   "language": "german",
+   "morphology": "",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 13,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "Urzeit",
+   "meaning": "prehistory",
+   "language": "german",
+   "morphology": "f",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 14,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "Batzen",
+   "meaning": "lump",
+   "language": "german",
+   "morphology": "n",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 15,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "Begegnung",
+   "meaning": "encounter",
+   "language": "german",
+   "morphology": "f",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 16,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "Respekt einfl\u00f6\u00dfen",
+   "meaning": "inspire respect",
+   "language": "german",
+   "morphology": "",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 17,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "schlummern",
+   "meaning": "doze",
+   "language": "german",
+   "morphology": "",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 18,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "veranlassen",
+   "meaning": "cause (v)",
+   "language": "german",
+   "morphology": "",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 19,
+  "model": "vocab.vocabitem",
+  "fields": {
+   "text": "Botenstoff",
+   "meaning": "message content",
+   "language": "german",
+   "morphology": "",
+   "category": "",
+   "subcategory": "",
+   "source": "chemisch_01"
+  }
+ },
+ {
+  "pk": 0,
+  "model": "vocab.learner",
+  "fields": {
+   "username": "happy_blossom"
+  }
+ },
+ {
+  "pk": 0,
+  "model": "vocab.vocablist",
+  "fields": {
+   "learner": 0,
+   "vocab_items": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  }
+ }
+]

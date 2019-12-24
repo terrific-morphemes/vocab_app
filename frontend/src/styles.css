@@ -1,0 +1,27 @@
+#app {
+  max-width: 960px;
+}
+.app-container{
+  width: 90%;
+}
+
+.vocab-button {
+  padding: .25rem .75rem .25rem .75rem;
+  margin: 0 .25rem .25rem .25rem;
+  background: lightgrey;
+}
+
+.microblog-form {
+	width: 90%;
+	height: 300px;
+}
+
+.vocab-button:hover, .vocab-button:focus {
+  background: aliceblue;
+}
+
+.vocab-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
