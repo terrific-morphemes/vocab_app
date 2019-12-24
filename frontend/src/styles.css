@@ -1,27 +1,81 @@
+/*
+ *Color scheme:
+ * White: f5f7f3
+ * Light main: 6a94b9
+ * Main: 0870a3
+ * Accent: b3415b
+ * Black: 1d131f
+ * font-family: 'Raleway', sans-serif;
+ * font-family: 'Nunito', sans-serif;
+ */
+
+
 #app {
   max-width: 960px;
+  font-family: 'Raleway', sans-serif;
+  background: #0870a3;
+  color: #f5f7f3;
 }
+
+.vocab-callout {
+  border-radius: 50%;
+  margin-top: -5%;
+  margin-left: -2%;
+  padding: 1em;
+  background: #1d131f;
+  color: #f5f7f3;
+}
+.app-title {
+  margin: 0 auto;
+  text-align: center;
+}
+
 .app-container{
   width: 90%;
 }
 
-.vocab-button {
-  padding: .25rem .75rem .25rem .75rem;
-  margin: 0 .25rem .25rem .25rem;
-  background: lightgrey;
+.title {
+  margin-bottom: 0;
+}
+
+.subtitle {
+  margin-top: 0;
 }
 
 .microblog-form {
-	width: 90%;
-	height: 300px;
+  border-radius: 2px;
+  margin: .25rem .25rem 0 .25rem;
+  width: 100%;
+  height: 300px;
+  font-size: inherit;
 }
 
+.vocab-button {
+  border-radius: 12px;
+  padding: .25rem .75rem .25rem .75rem;
+  margin: 0 .25rem .25rem .25rem;
+  background: #0870a3;
+  color: #f5f7f3;
+}
+
+
+
 .vocab-button:hover, .vocab-button:focus {
-  background: aliceblue;
+  background: #b3415b;
+  color: #f5f7f3;
 }
 
 .vocab-container {
+  margin: .5rem;
+  padding: .75rem;
+  border-radius: 6px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+  font-family: 'Nunito', sans-serif;
+  background: lightgrey;
+}
+
+.accent {
+  color: lightgrey;
 }

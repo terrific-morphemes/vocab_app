@@ -5,6 +5,15 @@ import axios from 'axios'
 
 
 
+function AppTitle(props){
+  return (
+    <div className="app-title">
+      <h1 className="title">Vocab Practice App</h1>
+      <p className="subtitle">learn by <span className="accent">creating</span></p>
+    </div>
+  )
+}
+
 function App(props){
   const [learner, setLearner] = useState(null)
   const [vocabList, setVocabList] = useState([])
@@ -17,6 +26,7 @@ function App(props){
 
   return(
       <div className="app-container">
+	  <AppTitle />
 	  <VocabList vocabList={vocabList}/>
 	  <MicroblogForm />
       </div>
