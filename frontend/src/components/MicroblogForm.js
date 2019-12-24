@@ -2,7 +2,7 @@ import React from 'react'
 
 function MicroblogForm(props){
   return(
-    <textarea className="microblog-form" placeholder="practice using the vocab here" name="microblog"/>
+    <textarea className="microblog-form" placeholder="practice using your vocab by writing a story..." name="microblog"/>
   )
 }
 
